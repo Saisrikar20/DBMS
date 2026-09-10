@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![Solved](https://img.shields.io/badge/Solved-10-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Easy](https://img.shields.io/badge/Easy-10-22C55E?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Medium](https://img.shields.io/badge/Medium-0-F59E0B?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![Solved](https://img.shields.io/badge/Solved-11-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Easy](https://img.shields.io/badge/Easy-11-22C55E?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Medium](https://img.shields.io/badge/Medium-0-F59E0B?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -23,10 +23,10 @@ This repository tracks solutions to LeetCode database problems. Each accepted su
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **10** | `██████████` 100% |
+| 🟢 **Easy** | **11** | `██████████` 100% |
 | 🟡 **Medium** | **0** | `░░░░░░░░░░` 0% |
 | 🔴 **Hard** | **0** | `░░░░░░░░░░` 0% |
-| 🎯 **Total** | **10** | `██████████` 100% |
+| 🎯 **Total** | **11** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -39,7 +39,7 @@ The table below is **automatically generated and updated** whenever new solution
 > 💡 **Tip:** Solutions are grouped into collapsible drawers below. Click any section to expand or collapse. For the full master list, see [`SOLUTIONS.md`](./SOLUTIONS.md).
 
 <details open>
-<summary><b>🟢 Easy Problems (10)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟢 Easy Problems (11)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
@@ -51,6 +51,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 1670 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [💻 SQL](./1670-patients-with-a-condition/patients-with-a-condition.sql) | `Pattern Matching (LIKE)` |
 | 1827 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [💻 SQL](./1827-invalid-tweets/invalid-tweets.sql) | `Basic Filtering (WHERE)` |
 | 1908 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [💻 SQL](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | `Basic Filtering (WHERE)` |
+| 2041 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [💻 SQL](./2041-the-latest-login-in-2020/the-latest-login-in-2020.sql) | `GROUP BY` |
 | 3782 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | [💻 SQL](./3782-find-valid-emails/find-valid-emails.sql) | `ORDER BY`, `REGEXP` |
 | 3910 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies) | [💻 SQL](./3910-find-books-with-no-available-copies/find-books-with-no-available-copies.sql) | `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling` |
 
