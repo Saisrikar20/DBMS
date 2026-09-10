@@ -3,16 +3,17 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![Solved](https://img.shields.io/badge/Solved-12-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Easy](https://img.shields.io/badge/Easy-11-22C55E?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Medium](https://img.shields.io/badge/Medium-1-F59E0B?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-12-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-11-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-1-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
 
 ## 📌 Overview
 
-This repository tracks solutions to LeetCode database problems. Each accepted submission is systematically synchronized and cataloged, providing a clean reference of SQL queries, edge cases, and query patterns across MySQL.
+This repository automatically tracks and synchronizes my database practice questions directly from my LeetCode profile: [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/) using the LeetCode Sync extension. Each accepted submission is committed automatically, reflecting an active history of problems attempted and mastered.
 
-- **Dialect:** MySQL 8.0 (LeetCode standard)
+- **LeetCode Profile:** [leetcode.com/u/rTP0FaRcOa](https://leetcode.com/u/rTP0FaRcOa/)
+- **SQL Dialect:** MySQL 8.0 (LeetCode standard)
 - **Automatic Sync:** Connected to LeetCode submissions with automatic count and index updates via GitHub Actions CI.
 - **Organization:** Each problem is contained in an isolated directory with its problem statement (`README.md`) and optimal SQL query (`*.sql`).
 
@@ -127,5 +128,5 @@ python scripts/update_readme.py
 ---
 
 <div align="center">
-  <sub>Maintained by <a href="https://github.com/Saisrikar20">Saisrikar</a> • Built with Python & GitHub Actions</sub>
+  <sub>Maintained by <a href="https://github.com/Saisrikar20">Saisrikar</a> • LeetCode: <a href="https://leetcode.com/u/rTP0FaRcOa/">@rTP0FaRcOa</a> • Built with Python & GitHub Actions</sub>
 </div>
