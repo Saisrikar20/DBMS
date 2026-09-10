@@ -2,7 +2,8 @@
 """
 update_readme.py
 Automatically scans the repository for LeetCode SQL solutions,
-extracts problem metadata, computes statistics, and updates README.md.
+extracts problem metadata, computes statistics, updates README.md with
+clean collapsible sections (scalable for 100+ questions), and maintains SOLUTIONS.md.
 """
 
 import os
@@ -11,6 +12,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 README_PATH = REPO_ROOT / "README.md"
+SOLUTIONS_PATH = REPO_ROOT / "SOLUTIONS.md"
 
 IGNORED_DIRS = {".git", ".github", "scripts", ".idea", ".vscode", "__pycache__"}
 
@@ -88,7 +90,6 @@ def scan_problems():
 
             topics = detect_sql_topics(sql_content)
 
-            # Extract info from directory name
             dir_name = entry.name
             id_match = re.match(r"^(\d+)-(.*)$", dir_name)
             if id_match:
@@ -98,12 +99,10 @@ def scan_problems():
                 problem_id = 999999
                 fallback_title = dir_name.replace("-", " ").title()
 
-            # Default values
             title = fallback_title
             url = f"https://leetcode.com/problems/{dir_name.split('-', 1)[-1]}/"
             difficulty = "Easy"
 
-            # Check problem's internal README.md
             prob_readme = entry / "README.md"
             if prob_readme.exists():
                 try:
@@ -130,7 +129,6 @@ def scan_problems():
                 "topics": ", ".join(topics)
             })
 
-    # Sort numerically by ID
     problems.sort(key=lambda x: x["id"])
     return problems
 
@@ -174,24 +172,86 @@ def generate_stats_table(total: int, easy: int, medium: int, hard: int) -> str:
     return "\n".join(table)
 
 
-def generate_problems_table(problems: list) -> str:
-    """Generate markdown table for all solved problems."""
-    header = [
+def build_table_rows(problem_subset: list) -> str:
+    """Helper to build a markdown table for a given list of problems."""
+    if not problem_subset:
+        return "_No problems in this category yet._\n"
+
+    lines = [
+        "| # | Problem Title | Solution | SQL Concepts / Topics |",
+        "|:---:|:---|:---:|:---|"
+    ]
+    for p in problem_subset:
+        lines.append(f"| {p['id']} | [{p['title']}]({p['url']}) | [💻 SQL]({p['sql_rel_path']}) | {p['topics']} |")
+    return "\n".join(lines)
+
+
+def generate_collapsible_problems_index(problems: list) -> str:
+    """Generate collapsible accordion sections for Easy, Medium, and Hard.
+    Keeps the README compact and scalable even with 100+ questions.
+    """
+    easy_probs = [p for p in problems if p["difficulty"] == "Easy"]
+    med_probs = [p for p in problems if p["difficulty"] == "Medium"]
+    hard_probs = [p for p in problems if p["difficulty"] == "Hard"]
+
+    easy_table = build_table_rows(easy_probs)
+    med_table = build_table_rows(med_probs)
+    hard_table = build_table_rows(hard_probs)
+
+    # Automatically keep sections open if they have problems, or keep Easy open by default
+    easy_open = " open" if easy_probs else ""
+    med_open = " open" if med_probs else ""
+    hard_open = " open" if hard_probs else ""
+
+    sections = [
+        "> 💡 **Tip:** Solutions are grouped into collapsible drawers below. Click any section to expand or collapse. For the full master list, see [`SOLUTIONS.md`](./SOLUTIONS.md).\n",
+        f"<details{easy_open}>",
+        f"<summary><b>🟢 Easy Problems ({len(easy_probs)})</b> — <i>Click to expand/collapse</i></summary>\n",
+        easy_table,
+        "\n</details>\n",
+        f"<details{med_open}>",
+        f"<summary><b>🟡 Medium Problems ({len(med_probs)})</b> — <i>Click to expand/collapse</i></summary>\n",
+        med_table,
+        "\n</details>\n",
+        f"<details{hard_open}>",
+        f"<summary><b>🔴 Hard Problems ({len(hard_probs)})</b> — <i>Click to expand/collapse</i></summary>\n",
+        hard_table,
+        "\n</details>"
+    ]
+    return "\n".join(sections)
+
+
+def generate_solutions_md(problems: list, total: int, easy: int, medium: int, hard: int):
+    """Generate a dedicated comprehensive SOLUTIONS.md catalog."""
+    lines = [
+        "# 📑 Complete SQL Solutions Catalog",
+        "",
+        f"This catalog lists all **{total}** LeetCode SQL solutions currently solved in this repository.",
+        "",
+        f"- **Easy:** {easy} | **Medium:** {medium} | **Hard:** {hard}",
+        "",
+        "[⬅️ Return to README](./README.md)",
+        "",
+        "---",
+        "",
         "| # | Problem Title | Solution | Difficulty | SQL Concepts / Topics |",
         "|:---:|:---|:---:|:---:|:---|"
     ]
-    rows = []
+
     for p in problems:
         badge_color = DIFFICULTY_COLORS.get(p["difficulty"], "lightgrey")
         diff_badge = f'<img src="https://img.shields.io/badge/-{p["difficulty"]}-{badge_color}?style=flat-square" alt="{p["difficulty"]}">'
-        row = f"| {p['id']} | [{p['title']}]({p['url']}) | [💻 SQL]({p['sql_rel_path']}) | {diff_badge} | {p['topics']} |"
-        rows.append(row)
+        lines.append(f"| {p['id']} | [{p['title']}]({p['url']}) | [💻 SQL]({p['sql_rel_path']}) | {diff_badge} | {p['topics']} |")
 
-    return "\n".join(header + rows)
+    lines.append("")
+    lines.append("---")
+    lines.append("<sub>Auto-generated by `scripts/update_readme.py`</sub>")
+    
+    SOLUTIONS_PATH.write_text("\n".join(lines), encoding="utf-8")
 
 
 def update_readme():
-    """Parse problems, format Markdown, and update README.md."""
+    """Parse problems, format Markdown, and update README.md and SOLUTIONS.md."""
     problems = scan_problems()
     total = len(problems)
     easy = sum(1 for p in problems if p["difficulty"] == "Easy")
@@ -200,7 +260,10 @@ def update_readme():
 
     badges_md = generate_badges(total, easy, medium, hard)
     stats_md = generate_stats_table(total, easy, medium, hard)
-    problems_md = generate_problems_table(problems)
+    problems_md = generate_collapsible_problems_index(problems)
+
+    # Generate dedicated SOLUTIONS.md master file
+    generate_solutions_md(problems, total, easy, medium, hard)
 
     if not README_PATH.exists():
         print(f"Error: {README_PATH} does not exist.")
@@ -208,7 +271,7 @@ def update_readme():
 
     content = README_PATH.read_text(encoding="utf-8")
 
-    # Replace badges block if present
+    # Replace badges block
     if "<!-- BADGES:START -->" in content and "<!-- BADGES:END -->" in content:
         content = re.sub(
             r"<!-- BADGES:START -->.*?<!-- BADGES:END -->",
@@ -236,7 +299,7 @@ def update_readme():
         )
 
     README_PATH.write_text(content, encoding="utf-8")
-    print(f"Successfully updated README.md: {total} total problems (Easy: {easy}, Medium: {medium}, Hard: {hard})")
+    print(f"Successfully updated README.md and SOLUTIONS.md: {total} total problems (Easy: {easy}, Medium: {medium}, Hard: {hard})")
 
 
 if __name__ == "__main__":

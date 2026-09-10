@@ -6,6 +6,7 @@ on:
       - main
     paths-ignore:
       - 'README.md'
+      - 'SOLUTIONS.md'
       - '.github/**'
   workflow_dispatch:
 
@@ -34,9 +35,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md SOLUTIONS.md
           if git diff --staged --quiet; then
-            echo "No changes to README.md"
+            echo "No changes to README.md or SOLUTIONS.md"
           else
             git commit -m "ci(readme): update solved count and problem table [skip ci]"
             git push
