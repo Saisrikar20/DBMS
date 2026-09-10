@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![Solved](https://img.shields.io/badge/Solved-11-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Easy](https://img.shields.io/badge/Easy-11-22C55E?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Medium](https://img.shields.io/badge/Medium-0-F59E0B?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![Solved](https://img.shields.io/badge/Solved-12-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Easy](https://img.shields.io/badge/Easy-11-22C55E?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Medium](https://img.shields.io/badge/Medium-1-F59E0B?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://github.com/Saisrikar20/DBMS) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -23,10 +23,10 @@ This repository tracks solutions to LeetCode database problems. Each accepted su
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **11** | `██████████` 100% |
-| 🟡 **Medium** | **0** | `░░░░░░░░░░` 0% |
+| 🟢 **Easy** | **11** | `█████████░` 91% |
+| 🟡 **Medium** | **1** | `█░░░░░░░░░` 8% |
 | 🔴 **Hard** | **0** | `░░░░░░░░░░` 0% |
-| 🎯 **Total** | **11** | `██████████` 100% |
+| 🎯 **Total** | **12** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -57,11 +57,12 @@ The table below is **automatically generated and updated** whenever new solution
 
 </details>
 
-<details>
-<summary><b>🟡 Medium Problems (0)</b> — <i>Click to expand/collapse</i></summary>
+<details open>
+<summary><b>🟡 Medium Problems (1)</b> — <i>Click to expand/collapse</i></summary>
 
-_No problems in this category yet._
-
+| # | Problem Title | Solution | SQL Concepts / Topics |
+|:---:|:---|:---:|:---|
+| 1327 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [💻 SQL](./1327-last-person-to-fit-in-the-bus/last-person-to-fit-in-the-bus.sql) | `ORDER BY`, `Aggregation` |
 
 </details>
 
