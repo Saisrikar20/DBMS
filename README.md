@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-15-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-14-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-1-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-16-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-15-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-1-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **14** | `█████████░` 93% |
+| 🟢 **Easy** | **15** | `█████████░` 93% |
 | 🟡 **Medium** | **1** | `█░░░░░░░░░` 6% |
 | 🔴 **Hard** | **0** | `░░░░░░░░░░` 0% |
-| 🎯 **Total** | **15** | `██████████` 100% |
+| 🎯 **Total** | **16** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -40,7 +40,7 @@ The table below is **automatically generated and updated** whenever new solution
 > 💡 **Tip:** Solutions are grouped into collapsible drawers below. Click any section to expand or collapse. For the full master list, see [`SOLUTIONS.md`](./SOLUTIONS.md).
 
 <details open>
-<summary><b>🟢 Easy Problems (14)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟢 Easy Problems (15)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
@@ -52,6 +52,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | [💻 SQL](./627-swap-sex-of-employees/swap-sex-of-employees.sql) | `CASE WHEN` |
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | [💻 SQL](./1258-article-views-i/article-views-i.sql) | `ORDER BY`, `DISTINCT` |
 | 1670 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [💻 SQL](./1670-patients-with-a-condition/patients-with-a-condition.sql) | `Pattern Matching (LIKE)` |
+| 1734 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [💻 SQL](./1734-bank-account-summary-ii/bank-account-summary-ii.sql) | `GROUP BY`, `HAVING` |
 | 1827 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [💻 SQL](./1827-invalid-tweets/invalid-tweets.sql) | `Basic Filtering (WHERE)` |
 | 1837 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | [💻 SQL](./1837-daily-leads-and-partners/daily-leads-and-partners.sql) | `GROUP BY`, `ORDER BY`, `DISTINCT` |
 | 1908 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [💻 SQL](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | `Basic Filtering (WHERE)` |
