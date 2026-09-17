@@ -1,3 +1,4 @@
 SELECT product_name,S.year,S.price
 FROM Sales S
-NATURAL JOIN Product P
+JOIN Product P
+ON S.product_id=P.product_id;
