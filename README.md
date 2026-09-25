@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-25-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-24-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-1-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-26-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-24-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-2-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-0-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **24** | `██████████` 96% |
-| 🟡 **Medium** | **1** | `░░░░░░░░░░` 4% |
+| 🟢 **Easy** | **24** | `█████████░` 92% |
+| 🟡 **Medium** | **2** | `█░░░░░░░░░` 7% |
 | 🔴 **Hard** | **0** | `░░░░░░░░░░` 0% |
-| 🎯 **Total** | **25** | `██████████` 100% |
+| 🎯 **Total** | **26** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -72,10 +72,11 @@ The table below is **automatically generated and updated** whenever new solution
 </details>
 
 <details open>
-<summary><b>🟡 Medium Problems (1)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟡 Medium Problems (2)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | [💻 SQL](./570-managers-with-at-least-5-direct-reports/managers-with-at-least-5-direct-reports.sql) | `GROUP BY`, `HAVING`, `NULL Handling` |
 | 1327 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [💻 SQL](./1327-last-person-to-fit-in-the-bus/last-person-to-fit-in-the-bus.sql) | `ORDER BY`, `Aggregation` |
 
 </details>
