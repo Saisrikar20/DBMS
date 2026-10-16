@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **29** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **30** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 24 | **Medium:** 5 | **Hard:** 0
+- **Easy:** 24 | **Medium:** 6 | **Hard:** 0
 
 [⬅️ Return to README](./README.md)
 
@@ -37,6 +37,7 @@ This catalog lists all **29** LeetCode SQL practice solutions synced from LeetCo
 | 2041 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [💻 SQL](./2041-the-latest-login-in-2020/the-latest-login-in-2020.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 2495 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [💻 SQL](./2495-number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `DISTINCT` |
 | 3782 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | [💻 SQL](./3782-find-valid-emails/find-valid-emails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY`, `REGEXP` |
+| 3848 | [Analyze Subscription Conversion](https://leetcode.com/problems/analyze-subscription-conversion) | [💻 SQL](./3848-analyze-subscription-conversion/analyze-subscription-conversion.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
 | 3898 | [Seasonal Sales Analysis](https://leetcode.com/problems/seasonal-sales-analysis) | [💻 SQL](./3898-seasonal-sales-analysis/seasonal-sales-analysis.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `INNER JOIN`, `GROUP BY`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
 | 3910 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies) | [💻 SQL](./3910-find-books-with-no-available-copies/find-books-with-no-available-copies.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling` |
 
