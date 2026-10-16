@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-34-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-24-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-9-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-35-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-24-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-10-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-1-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **24** | `███████░░░` 70% |
-| 🟡 **Medium** | **9** | `███░░░░░░░` 26% |
+| 🟢 **Easy** | **24** | `███████░░░` 68% |
+| 🟡 **Medium** | **10** | `███░░░░░░░` 28% |
 | 🔴 **Hard** | **1** | `░░░░░░░░░░` 2% |
-| 🎯 **Total** | **34** | `██████████` 100% |
+| 🎯 **Total** | **35** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -72,7 +72,7 @@ The table below is **automatically generated and updated** whenever new solution
 </details>
 
 <details open>
-<summary><b>🟡 Medium Problems (9)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟡 Medium Problems (10)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
@@ -85,6 +85,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 3942 | [Find Drivers with Improved Fuel Efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency) | [💻 SQL](./3942-find-drivers-with-improved-fuel-efficiency/find-drivers-with-improved-fuel-efficiency.sql) | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
 | 3943 | [Find Overbooked Employees](https://leetcode.com/problems/find-overbooked-employees) | [💻 SQL](./3943-find-overbooked-employees/find-overbooked-employees.sql) | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 3971 | [Find Stores with Inventory Imbalance](https://leetcode.com/problems/find-stores-with-inventory-imbalance) | [💻 SQL](./3971-find-stores-with-inventory-imbalance/find-stores-with-inventory-imbalance.sql) | `INNER JOIN`, `GROUP BY`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
+| 4208 | [Find Emotionally Consistent Users](https://leetcode.com/problems/find-emotionally-consistent-users) | [💻 SQL](./4208-find-emotionally-consistent-users/find-emotionally-consistent-users.sql) | `GROUP BY`, `ORDER BY`, `Window Functions` |
 
 </details>
 
