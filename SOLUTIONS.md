@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **35** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **36** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 24 | **Medium:** 10 | **Hard:** 1
+- **Easy:** 24 | **Medium:** 10 | **Hard:** 2
 
 [⬅️ Return to README](./README.md)
 
@@ -43,6 +43,7 @@ This catalog lists all **35** LeetCode SQL practice solutions synced from LeetCo
 | 3942 | [Find Drivers with Improved Fuel Efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency) | [💻 SQL](./3942-find-drivers-with-improved-fuel-efficiency/find-drivers-with-improved-fuel-efficiency.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
 | 3943 | [Find Overbooked Employees](https://leetcode.com/problems/find-overbooked-employees) | [💻 SQL](./3943-find-overbooked-employees/find-overbooked-employees.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 3971 | [Find Stores with Inventory Imbalance](https://leetcode.com/problems/find-stores-with-inventory-imbalance) | [💻 SQL](./3971-find-stores-with-inventory-imbalance/find-stores-with-inventory-imbalance.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `INNER JOIN`, `GROUP BY`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
+| 4043 | [Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions) | [💻 SQL](./4043-find-zombie-sessions/find-zombie-sessions.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 4169 | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs) | [💻 SQL](./4169-most-common-course-pairs/most-common-course-pairs.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `INNER JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling`, `Window Functions` |
 | 4208 | [Find Emotionally Consistent Users](https://leetcode.com/problems/find-emotionally-consistent-users) | [💻 SQL](./4208-find-emotionally-consistent-users/find-emotionally-consistent-users.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `ORDER BY`, `Window Functions` |
 
