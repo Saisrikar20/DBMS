@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **54** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **55** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 27 | **Medium:** 19 | **Hard:** 8
+- **Easy:** 27 | **Medium:** 20 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -11,6 +11,7 @@ This catalog lists all **54** LeetCode SQL practice solutions synced from LeetCo
 | # | Problem Title | Solution | Difficulty | SQL Concepts / Topics |
 |:---:|:---|:---:|:---:|:---|
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [💻 SQL](./180-consecutive-numbers/consecutive-numbers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `DISTINCT` |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [💻 SQL](./184-department-highest-salary/department-highest-salary.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `Aggregation` |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [💻 SQL](./185-department-top-three-salaries/department-top-three-salaries.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `INNER JOIN`, `ORDER BY`, `Window Functions` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [💻 SQL](./196-delete-duplicate-emails/delete-duplicate-emails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [💻 SQL](./197-rising-temperature/rising-temperature.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `INNER JOIN` |
