@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **74** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **75** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 34 | **Medium:** 32 | **Hard:** 8
+- **Easy:** 34 | **Medium:** 33 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -80,6 +80,7 @@ This catalog lists all **74** LeetCode SQL practice solutions synced from LeetCo
 | 4025 | [Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers) | [💻 SQL](./4025-find-loyal-customers/find-loyal-customers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 4043 | [Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions) | [💻 SQL](./4043-find-zombie-sessions/find-zombie-sessions.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 4091 | [Find Golden Hour Customers](https://leetcode.com/problems/find-golden-hour-customers) | [💻 SQL](./4091-find-golden-hour-customers/find-golden-hour-customers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
+| 4103 | [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers) | [💻 SQL](./4103-find-churn-risk-customers/find-churn-risk-customers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
 | 4169 | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs) | [💻 SQL](./4169-most-common-course-pairs/most-common-course-pairs.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `INNER JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling`, `Window Functions` |
 | 4195 | [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage) | [💻 SQL](./4195-find-users-with-high-token-usage/find-users-with-high-token-usage.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 4208 | [Find Emotionally Consistent Users](https://leetcode.com/problems/find-emotionally-consistent-users) | [💻 SQL](./4208-find-emotionally-consistent-users/find-emotionally-consistent-users.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `ORDER BY`, `Window Functions` |
