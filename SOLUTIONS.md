@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **38** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **39** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 24 | **Medium:** 11 | **Hard:** 3
+- **Easy:** 25 | **Medium:** 11 | **Hard:** 3
 
 [⬅️ Return to README](./README.md)
 
@@ -46,6 +46,7 @@ This catalog lists all **38** LeetCode SQL practice solutions synced from LeetCo
 | 4043 | [Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions) | [💻 SQL](./4043-find-zombie-sessions/find-zombie-sessions.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 4091 | [Find Golden Hour Customers](https://leetcode.com/problems/find-golden-hour-customers) | [💻 SQL](./4091-find-golden-hour-customers/find-golden-hour-customers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
 | 4169 | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs) | [💻 SQL](./4169-most-common-course-pairs/most-common-course-pairs.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `INNER JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling`, `Window Functions` |
+| 4195 | [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage) | [💻 SQL](./4195-find-users-with-high-token-usage/find-users-with-high-token-usage.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 4208 | [Find Emotionally Consistent Users](https://leetcode.com/problems/find-emotionally-consistent-users) | [💻 SQL](./4208-find-emotionally-consistent-users/find-emotionally-consistent-users.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `ORDER BY`, `Window Functions` |
 | 4227 | [Find Users with Persistent Behavior Patterns](https://leetcode.com/problems/find-users-with-persistent-behavior-patterns) | [💻 SQL](./4227-find-users-with-persistent-behavior-patterns/find-users-with-persistent-behavior-patterns.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `GROUP BY`, `HAVING`, `ORDER BY`, `Window Functions` |
 

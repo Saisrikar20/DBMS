@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-38-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-24-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-11-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-3-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-39-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-25-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-11-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-3-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **24** | `██████░░░░` 63% |
+| 🟢 **Easy** | **25** | `██████░░░░` 64% |
 | 🟡 **Medium** | **11** | `███░░░░░░░` 28% |
 | 🔴 **Hard** | **3** | `█░░░░░░░░░` 7% |
-| 🎯 **Total** | **38** | `██████████` 100% |
+| 🎯 **Total** | **39** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -40,7 +40,7 @@ The table below is **automatically generated and updated** whenever new solution
 > 💡 **Tip:** Solutions are grouped into collapsible drawers below. Click any section to expand or collapse. For the full master list, see [`SOLUTIONS.md`](./SOLUTIONS.md).
 
 <details open>
-<summary><b>🟢 Easy Problems (24)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟢 Easy Problems (25)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
@@ -68,6 +68,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 2495 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [💻 SQL](./2495-number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql) | `GROUP BY`, `DISTINCT` |
 | 3782 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | [💻 SQL](./3782-find-valid-emails/find-valid-emails.sql) | `ORDER BY`, `REGEXP` |
 | 3910 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies) | [💻 SQL](./3910-find-books-with-no-available-copies/find-books-with-no-available-copies.sql) | `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling` |
+| 4195 | [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage) | [💻 SQL](./4195-find-users-with-high-token-usage/find-users-with-high-token-usage.sql) | `GROUP BY`, `HAVING`, `ORDER BY` |
 
 </details>
 
