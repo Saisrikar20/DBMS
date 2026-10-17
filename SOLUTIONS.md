@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **77** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **78** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 35 | **Medium:** 34 | **Hard:** 8
+- **Easy:** 36 | **Medium:** 34 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -14,6 +14,7 @@ This catalog lists all **77** LeetCode SQL practice solutions synced from LeetCo
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [💻 SQL](./176-second-highest-salary/second-highest-salary.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `DISTINCT` |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | [💻 SQL](./178-rank-scores/rank-scores.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `Window Functions` |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [💻 SQL](./180-consecutive-numbers/consecutive-numbers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `DISTINCT` |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [💻 SQL](./181-employees-earning-more-than-their-managers/employees-earning-more-than-their-managers.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Basic Filtering (WHERE)` |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [💻 SQL](./184-department-highest-salary/department-highest-salary.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `Aggregation` |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [💻 SQL](./185-department-top-three-salaries/department-top-three-salaries.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `INNER JOIN`, `ORDER BY`, `Window Functions` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [💻 SQL](./196-delete-duplicate-emails/delete-duplicate-emails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
