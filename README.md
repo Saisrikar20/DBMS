@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-47-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-25-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-16-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-6-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-48-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-25-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-16-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-7-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **25** | `█████░░░░░` 53% |
-| 🟡 **Medium** | **16** | `███░░░░░░░` 34% |
-| 🔴 **Hard** | **6** | `█░░░░░░░░░` 12% |
-| 🎯 **Total** | **47** | `██████████` 100% |
+| 🟢 **Easy** | **25** | `█████░░░░░` 52% |
+| 🟡 **Medium** | **16** | `███░░░░░░░` 33% |
+| 🔴 **Hard** | **7** | `█░░░░░░░░░` 14% |
+| 🎯 **Total** | **48** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -97,12 +97,13 @@ The table below is **automatically generated and updated** whenever new solution
 </details>
 
 <details open>
-<summary><b>🔴 Hard Problems (6)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🔴 Hard Problems (7)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [💻 SQL](./185-department-top-three-salaries/department-top-three-salaries.sql) | `INNER JOIN`, `ORDER BY`, `Window Functions` |
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users) | [💻 SQL](./262-trips-and-users/trips-and-users.sql) | `GROUP BY`, `CASE WHEN` |
+| 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) | [💻 SQL](./601-human-traffic-of-stadium/human-traffic-of-stadium.sql) | `GROUP BY`, `HAVING`, `ORDER BY`, `Window Functions` |
 | 3891 | [Find Category Recommendation Pairs](https://leetcode.com/problems/find-category-recommendation-pairs) | [💻 SQL](./3891-find-category-recommendation-pairs/find-category-recommendation-pairs.sql) | `GROUP BY`, `HAVING`, `ORDER BY`, `DISTINCT` |
 | 4043 | [Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions) | [💻 SQL](./4043-find-zombie-sessions/find-zombie-sessions.sql) | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 4169 | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs) | [💻 SQL](./4169-most-common-course-pairs/most-common-course-pairs.sql) | `INNER JOIN`, `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling`, `Window Functions` |
