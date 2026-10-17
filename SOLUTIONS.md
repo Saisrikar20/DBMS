@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **44** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **45** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 25 | **Medium:** 15 | **Hard:** 4
+- **Easy:** 25 | **Medium:** 15 | **Hard:** 5
 
 [⬅️ Return to README](./README.md)
 
@@ -10,6 +10,7 @@ This catalog lists all **44** LeetCode SQL practice solutions synced from LeetCo
 
 | # | Problem Title | Solution | Difficulty | SQL Concepts / Topics |
 |:---:|:---|:---:|:---:|:---|
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [💻 SQL](./185-department-top-three-salaries/department-top-three-salaries.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `INNER JOIN`, `ORDER BY`, `Window Functions` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [💻 SQL](./196-delete-duplicate-emails/delete-duplicate-emails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [💻 SQL](./197-rising-temperature/rising-temperature.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `INNER JOIN` |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | [💻 SQL](./570-managers-with-at-least-5-direct-reports/managers-with-at-least-5-direct-reports.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `NULL Handling` |
