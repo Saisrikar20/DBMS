@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **51** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **52** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 25 | **Medium:** 18 | **Hard:** 8
+- **Easy:** 26 | **Medium:** 18 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -33,6 +33,7 @@ This catalog lists all **51** LeetCode SQL practice solutions synced from LeetCo
 | 1327 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [💻 SQL](./1327-last-person-to-fit-in-the-bus/last-person-to-fit-in-the-bus.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `Aggregation` |
 | 1509 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [💻 SQL](./1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `RIGHT JOIN` |
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [💻 SQL](./1625-group-sold-products-by-the-date/group-sold-products-by-the-date.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY`, `DISTINCT` |
+| 1664 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) | [💻 SQL](./1664-find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `REGEXP` |
 | 1670 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [💻 SQL](./1670-patients-with-a-condition/patients-with-a-condition.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Pattern Matching (LIKE)` |
 | 1724 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | [💻 SQL](./1724-customer-who-visited-but-did-not-make-any-transactions/customer-who-visited-but-did-not-make-any-transactions.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `RIGHT JOIN`, `GROUP BY`, `NULL Handling` |
 | 1734 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [💻 SQL](./1734-bank-account-summary-ii/bank-account-summary-ii.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `HAVING` |
