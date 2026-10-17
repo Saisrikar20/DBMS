@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **63** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **64** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 31 | **Medium:** 24 | **Hard:** 8
+- **Easy:** 31 | **Medium:** 25 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -10,6 +10,7 @@ This catalog lists all **63** LeetCode SQL practice solutions synced from LeetCo
 
 | # | Problem Title | Solution | Difficulty | SQL Concepts / Topics |
 |:---:|:---|:---:|:---:|:---|
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | [💻 SQL](./178-rank-scores/rank-scores.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `Window Functions` |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [💻 SQL](./180-consecutive-numbers/consecutive-numbers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `DISTINCT` |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [💻 SQL](./184-department-highest-salary/department-highest-salary.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `Aggregation` |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [💻 SQL](./185-department-top-three-salaries/department-top-three-salaries.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `INNER JOIN`, `ORDER BY`, `Window Functions` |
