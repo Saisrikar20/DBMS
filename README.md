@@ -90,7 +90,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | [💻 SQL](./178-rank-scores/rank-scores.sql) | `ORDER BY`, `Window Functions` |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [💻 SQL](./180-consecutive-numbers/consecutive-numbers.sql) | `DISTINCT` |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [💻 SQL](./184-department-highest-salary/department-highest-salary.sql) | `Aggregation` |
-| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | [💻 SQL](./570-managers-with-at-least-5-direct-reports/managers-with-at-least-5-direct-reports.sql) | `GROUP BY`, `HAVING`, `NULL Handling` |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | [💻 SQL](./570-managers-with-at-least-5-direct-reports/managers-with-at-least-5-direct-reports.sql) | `GROUP BY`, `HAVING` |
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016) | [💻 SQL](./585-investments-in-2016/investments-in-2016.sql) | `GROUP BY`, `HAVING` |
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) | [💻 SQL](./602-friend-requests-ii-who-has-the-most-friends/friend-requests-ii-who-has-the-most-friends.sql) | `GROUP BY`, `ORDER BY`, `UNION` |
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node) | [💻 SQL](./608-tree-node/tree-node.sql) | `NULL Handling`, `CASE WHEN` |
