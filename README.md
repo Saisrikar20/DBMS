@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-67-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-33-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-26-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-8-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-68-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-33-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-27-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-8-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **33** | `█████░░░░░` 49% |
-| 🟡 **Medium** | **26** | `████░░░░░░` 38% |
+| 🟢 **Easy** | **33** | `█████░░░░░` 48% |
+| 🟡 **Medium** | **27** | `████░░░░░░` 39% |
 | 🔴 **Hard** | **8** | `█░░░░░░░░░` 11% |
-| 🎯 **Total** | **67** | `██████████` 100% |
+| 🎯 **Total** | **68** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -81,7 +81,7 @@ The table below is **automatically generated and updated** whenever new solution
 </details>
 
 <details open>
-<summary><b>🟡 Medium Problems (26)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟡 Medium Problems (27)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
@@ -99,6 +99,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 1317 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [💻 SQL](./1317-monthly-transactions-i/monthly-transactions-i.sql) | `GROUP BY`, `CASE WHEN` |
 | 1327 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [💻 SQL](./1327-last-person-to-fit-in-the-bus/last-person-to-fit-in-the-bus.sql) | `ORDER BY`, `Aggregation` |
 | 1452 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) | [💻 SQL](./1452-restaurant-growth/restaurant-growth.sql) | `GROUP BY`, `ORDER BY`, `Window Functions` |
+| 2057 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories) | [💻 SQL](./2057-count-salary-categories/count-salary-categories.sql) | `UNION`, `Aggregation` |
 | 3767 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved) | [💻 SQL](./3767-find-students-who-improved/find-students-who-improved.sql) | `GROUP BY`, `HAVING`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
 | 3816 | [DNA Pattern Recognition](https://leetcode.com/problems/dna-pattern-recognition) | [💻 SQL](./3816-dna-pattern-recognition/dna-pattern-recognition.sql) | `ORDER BY`, `REGEXP`, `CASE WHEN` |
 | 3848 | [Analyze Subscription Conversion](https://leetcode.com/problems/analyze-subscription-conversion) | [💻 SQL](./3848-analyze-subscription-conversion/analyze-subscription-conversion.sql) | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
