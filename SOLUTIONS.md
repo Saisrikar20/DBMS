@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **69** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **70** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 34 | **Medium:** 27 | **Hard:** 8
+- **Easy:** 34 | **Medium:** 28 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -44,6 +44,7 @@ This catalog lists all **69** LeetCode SQL practice solutions synced from LeetCo
 | 1390 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [💻 SQL](./1390-average-selling-price/average-selling-price.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `LEFT JOIN`, `GROUP BY`, `NULL Handling` |
 | 1452 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) | [💻 SQL](./1452-restaurant-growth/restaurant-growth.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `ORDER BY`, `Window Functions` |
 | 1509 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [💻 SQL](./1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `RIGHT JOIN` |
+| 1523 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) | [💻 SQL](./1523-capital-gainloss/capital-gainloss.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `CASE WHEN` |
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [💻 SQL](./1625-group-sold-products-by-the-date/group-sold-products-by-the-date.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY`, `DISTINCT` |
 | 1664 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) | [💻 SQL](./1664-find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `REGEXP` |
 | 1670 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [💻 SQL](./1670-patients-with-a-condition/patients-with-a-condition.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Pattern Matching (LIKE)` |
