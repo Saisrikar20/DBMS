@@ -45,7 +45,7 @@ The table below is **automatically generated and updated** whenever new solution
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [💻 SQL](./196-delete-duplicate-emails/delete-duplicate-emails.sql) | `GROUP BY` |
-| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [💻 SQL](./197-rising-temperature/rising-temperature.sql) | `INNER JOIN` |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [💻 SQL](./197-rising-temperature/rising-temperature.sql) | `Basic Filtering (WHERE)` |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | [💻 SQL](./577-employee-bonus/employee-bonus.sql) | `LEFT JOIN`, `NULL Handling` |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [💻 SQL](./584-find-customer-referee/find-customer-referee.sql) | `NULL Handling` |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [💻 SQL](./595-big-countries/big-countries.sql) | `Basic Filtering (WHERE)` |
