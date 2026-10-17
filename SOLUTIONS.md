@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **90** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **91** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 46 | **Medium:** 36 | **Hard:** 8
+- **Easy:** 47 | **Medium:** 36 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -64,6 +64,7 @@ This catalog lists all **90** LeetCode SQL practice solutions synced from LeetCo
 | 1734 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | [💻 SQL](./1734-bank-account-summary-ii/bank-account-summary-ii.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `HAVING` |
 | 1773 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [💻 SQL](./1773-percentage-of-users-attended-a-contest/percentage-of-users-attended-a-contest.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY` |
 | 1801 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [💻 SQL](./1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
+| 1811 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | [💻 SQL](./1811-fix-names-in-a-table/fix-names-in-a-table.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY` |
 | 1827 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [💻 SQL](./1827-invalid-tweets/invalid-tweets.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Basic Filtering (WHERE)` |
 | 1837 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | [💻 SQL](./1837-daily-leads-and-partners/daily-leads-and-partners.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY`, `DISTINCT` |
 | 1877 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | [💻 SQL](./1877-find-followers-count/find-followers-count.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY` |
