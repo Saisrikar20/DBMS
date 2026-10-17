@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **71** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **72** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 34 | **Medium:** 29 | **Hard:** 8
+- **Easy:** 34 | **Medium:** 30 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -10,6 +10,7 @@ This catalog lists all **71** LeetCode SQL practice solutions synced from LeetCo
 
 | # | Problem Title | Solution | Difficulty | SQL Concepts / Topics |
 |:---:|:---|:---:|:---:|:---|
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [💻 SQL](./176-second-highest-salary/second-highest-salary.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `DISTINCT` |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | [💻 SQL](./178-rank-scores/rank-scores.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `Window Functions` |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [💻 SQL](./180-consecutive-numbers/consecutive-numbers.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `DISTINCT` |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [💻 SQL](./184-department-highest-salary/department-highest-salary.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `Aggregation` |
