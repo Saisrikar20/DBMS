@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **66** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **67** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 32 | **Medium:** 26 | **Hard:** 8
+- **Easy:** 33 | **Medium:** 26 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -25,6 +25,7 @@ This catalog lists all **66** LeetCode SQL practice solutions synced from LeetCo
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) | [💻 SQL](./601-human-traffic-of-stadium/human-traffic-of-stadium.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `GROUP BY`, `HAVING`, `ORDER BY`, `Window Functions` |
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) | [💻 SQL](./602-friend-requests-ii-who-has-the-most-friends/friend-requests-ii-who-has-the-most-friends.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `ORDER BY`, `UNION` |
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node) | [💻 SQL](./608-tree-node/tree-node.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `NULL Handling`, `CASE WHEN` |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [💻 SQL](./610-triangle-judgement/triangle-judgement.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `CASE WHEN` |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [💻 SQL](./620-not-boring-movies/not-boring-movies.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY` |
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [💻 SQL](./626-exchange-seats/exchange-seats.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `CASE WHEN`, `Aggregation` |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | [💻 SQL](./627-swap-sex-of-employees/swap-sex-of-employees.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `CASE WHEN` |
