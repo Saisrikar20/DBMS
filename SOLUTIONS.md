@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **84** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **85** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 42 | **Medium:** 34 | **Hard:** 8
+- **Easy:** 43 | **Medium:** 34 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -69,6 +69,7 @@ This catalog lists all **84** LeetCode SQL practice solutions synced from LeetCo
 | 2041 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [💻 SQL](./2041-the-latest-login-in-2020/the-latest-login-in-2020.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 2057 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories) | [💻 SQL](./2057-count-salary-categories/count-salary-categories.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `UNION`, `Aggregation` |
 | 2110 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | [💻 SQL](./2110-employees-with-missing-information/employees-with-missing-information.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY`, `UNION` |
+| 2127 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company) | [💻 SQL](./2127-employees-whose-manager-left-the-company/employees-whose-manager-left-the-company.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `LEFT JOIN`, `ORDER BY`, `NULL Handling` |
 | 2495 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [💻 SQL](./2495-number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `DISTINCT` |
 | 3767 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved) | [💻 SQL](./3767-find-students-who-improved/find-students-who-improved.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
 | 3782 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | [💻 SQL](./3782-find-valid-emails/find-valid-emails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY`, `REGEXP` |
