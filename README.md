@@ -57,7 +57,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [💻 SQL](./610-triangle-judgement/triangle-judgement.sql) | `CASE WHEN` |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [💻 SQL](./620-not-boring-movies/not-boring-movies.sql) | `ORDER BY` |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | [💻 SQL](./627-swap-sex-of-employees/swap-sex-of-employees.sql) | `CASE WHEN` |
-| 1153 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [💻 SQL](./1153-product-sales-analysis-i/product-sales-analysis-i.sql) | `INNER JOIN` |
+| 1153 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [💻 SQL](./1153-product-sales-analysis-i/product-sales-analysis-i.sql) | `Basic Filtering (WHERE)` |
 | 1179 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [💻 SQL](./1179-game-play-analysis-i/game-play-analysis-i.sql) | `GROUP BY` |
 | 1245 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [💻 SQL](./1245-user-activity-for-the-past-30-days-i/user-activity-for-the-past-30-days-i.sql) | `GROUP BY`, `DISTINCT` |
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | [💻 SQL](./1258-article-views-i/article-views-i.sql) | `ORDER BY`, `DISTINCT` |
