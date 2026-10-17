@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **70** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **71** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 34 | **Medium:** 28 | **Hard:** 8
+- **Easy:** 34 | **Medium:** 29 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -33,6 +33,7 @@ This catalog lists all **70** LeetCode SQL practice solutions synced from LeetCo
 | 1153 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [💻 SQL](./1153-product-sales-analysis-i/product-sales-analysis-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `INNER JOIN` |
 | 1155 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) | [💻 SQL](./1155-product-sales-analysis-iii/product-sales-analysis-iii.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY` |
 | 1179 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [💻 SQL](./1179-game-play-analysis-i/game-play-analysis-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
+| 1182 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | [💻 SQL](./1182-game-play-analysis-iv/game-play-analysis-iv.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `DISTINCT` |
 | 1245 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [💻 SQL](./1245-user-activity-for-the-past-30-days-i/user-activity-for-the-past-30-days-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `DISTINCT` |
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | [💻 SQL](./1258-article-views-i/article-views-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY`, `DISTINCT` |
 | 1278 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) | [💻 SQL](./1278-product-price-at-a-given-date/product-price-at-a-given-date.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `LEFT JOIN`, `ORDER BY`, `DISTINCT`, `NULL Handling`, `Window Functions` |

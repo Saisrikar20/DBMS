@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-70-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-34-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-28-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-8-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-71-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-34-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-29-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-8-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **34** | `█████░░░░░` 48% |
-| 🟡 **Medium** | **28** | `████░░░░░░` 40% |
+| 🟢 **Easy** | **34** | `█████░░░░░` 47% |
+| 🟡 **Medium** | **29** | `████░░░░░░` 40% |
 | 🔴 **Hard** | **8** | `█░░░░░░░░░` 11% |
-| 🎯 **Total** | **70** | `██████████` 100% |
+| 🎯 **Total** | **71** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -82,7 +82,7 @@ The table below is **automatically generated and updated** whenever new solution
 </details>
 
 <details open>
-<summary><b>🟡 Medium Problems (28)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟡 Medium Problems (29)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
@@ -95,6 +95,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [💻 SQL](./626-exchange-seats/exchange-seats.sql) | `ORDER BY`, `CASE WHEN`, `Aggregation` |
 | 1135 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | [💻 SQL](./1135-customers-who-bought-all-products/customers-who-bought-all-products.sql) | `GROUP BY`, `HAVING`, `DISTINCT` |
 | 1155 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) | [💻 SQL](./1155-product-sales-analysis-iii/product-sales-analysis-iii.sql) | `GROUP BY` |
+| 1182 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | [💻 SQL](./1182-game-play-analysis-iv/game-play-analysis-iv.sql) | `GROUP BY`, `DISTINCT` |
 | 1278 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) | [💻 SQL](./1278-product-price-at-a-given-date/product-price-at-a-given-date.sql) | `LEFT JOIN`, `ORDER BY`, `DISTINCT`, `NULL Handling`, `Window Functions` |
 | 1292 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | [💻 SQL](./1292-immediate-food-delivery-ii/immediate-food-delivery-ii.sql) | `GROUP BY` |
 | 1317 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [💻 SQL](./1317-monthly-transactions-i/monthly-transactions-i.sql) | `GROUP BY`, `CASE WHEN` |
