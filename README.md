@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-45-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-25-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-15-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-5-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-46-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-25-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-16-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-5-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **25** | `██████░░░░` 55% |
-| 🟡 **Medium** | **15** | `███░░░░░░░` 33% |
-| 🔴 **Hard** | **5** | `█░░░░░░░░░` 11% |
-| 🎯 **Total** | **45** | `██████████` 100% |
+| 🟢 **Easy** | **25** | `█████░░░░░` 54% |
+| 🟡 **Medium** | **16** | `███░░░░░░░` 34% |
+| 🔴 **Hard** | **5** | `█░░░░░░░░░` 10% |
+| 🎯 **Total** | **46** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -73,11 +73,12 @@ The table below is **automatically generated and updated** whenever new solution
 </details>
 
 <details open>
-<summary><b>🟡 Medium Problems (15)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟡 Medium Problems (16)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | [💻 SQL](./570-managers-with-at-least-5-direct-reports/managers-with-at-least-5-direct-reports.sql) | `GROUP BY`, `HAVING`, `NULL Handling` |
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node) | [💻 SQL](./608-tree-node/tree-node.sql) | `NULL Handling`, `CASE WHEN` |
 | 1135 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | [💻 SQL](./1135-customers-who-bought-all-products/customers-who-bought-all-products.sql) | `GROUP BY`, `HAVING`, `DISTINCT` |
 | 1155 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) | [💻 SQL](./1155-product-sales-analysis-iii/product-sales-analysis-iii.sql) | `GROUP BY` |
 | 1292 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | [💻 SQL](./1292-immediate-food-delivery-ii/immediate-food-delivery-ii.sql) | `GROUP BY` |

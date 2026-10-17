@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **45** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **46** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 25 | **Medium:** 15 | **Hard:** 5
+- **Easy:** 25 | **Medium:** 16 | **Hard:** 5
 
 [⬅️ Return to README](./README.md)
 
@@ -18,6 +18,7 @@ This catalog lists all **45** LeetCode SQL practice solutions synced from LeetCo
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [💻 SQL](./584-find-customer-referee/find-customer-referee.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `NULL Handling` |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [💻 SQL](./595-big-countries/big-countries.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Basic Filtering (WHERE)` |
 | 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students) | [💻 SQL](./596-classes-with-at-least-5-students/classes-with-at-least-5-students.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `HAVING` |
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node) | [💻 SQL](./608-tree-node/tree-node.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `NULL Handling`, `CASE WHEN` |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [💻 SQL](./620-not-boring-movies/not-boring-movies.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY` |
 | 627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | [💻 SQL](./627-swap-sex-of-employees/swap-sex-of-employees.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `CASE WHEN` |
 | 1135 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | [💻 SQL](./1135-customers-who-bought-all-products/customers-who-bought-all-products.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `DISTINCT` |
