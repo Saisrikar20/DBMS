@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **40** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **41** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 25 | **Medium:** 12 | **Hard:** 3
+- **Easy:** 25 | **Medium:** 13 | **Hard:** 3
 
 [⬅️ Return to README](./README.md)
 
@@ -40,6 +40,7 @@ This catalog lists all **40** LeetCode SQL practice solutions synced from LeetCo
 | 3848 | [Analyze Subscription Conversion](https://leetcode.com/problems/analyze-subscription-conversion) | [💻 SQL](./3848-analyze-subscription-conversion/analyze-subscription-conversion.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
 | 3898 | [Seasonal Sales Analysis](https://leetcode.com/problems/seasonal-sales-analysis) | [💻 SQL](./3898-seasonal-sales-analysis/seasonal-sales-analysis.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `INNER JOIN`, `GROUP BY`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
 | 3910 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies) | [💻 SQL](./3910-find-books-with-no-available-copies/find-books-with-no-available-copies.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling` |
+| 3932 | [Find COVID Recovery Patients](https://leetcode.com/problems/find-covid-recovery-patients) | [💻 SQL](./3932-find-covid-recovery-patients/find-covid-recovery-patients.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `NULL Handling`, `CASE WHEN` |
 | 3942 | [Find Drivers with Improved Fuel Efficiency](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency) | [💻 SQL](./3942-find-drivers-with-improved-fuel-efficiency/find-drivers-with-improved-fuel-efficiency.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
 | 3943 | [Find Overbooked Employees](https://leetcode.com/problems/find-overbooked-employees) | [💻 SQL](./3943-find-overbooked-employees/find-overbooked-employees.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY` |
 | 3971 | [Find Stores with Inventory Imbalance](https://leetcode.com/problems/find-stores-with-inventory-imbalance) | [💻 SQL](./3971-find-stores-with-inventory-imbalance/find-stores-with-inventory-imbalance.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `INNER JOIN`, `GROUP BY`, `ORDER BY`, `Window Functions`, `CASE WHEN` |
