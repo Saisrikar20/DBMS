@@ -3,7 +3,7 @@
 A curated collection of SQL solutions to **LeetCode Database** challenges, maintained for coursework, interview preparation, and mastery of relational database design and advanced querying techniques.
 
 <!-- BADGES:START -->
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-89-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-45-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-36-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-8-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rTP0FaRcOa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rTP0FaRcOa/) [![Solved](https://img.shields.io/badge/Solved-90-2563EB?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rTP0FaRcOa/) [![Easy](https://img.shields.io/badge/Easy-46-22C55E?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Medium](https://img.shields.io/badge/Medium-36-F59E0B?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Hard](https://img.shields.io/badge/Hard-8-EF4444?style=for-the-badge)](https://leetcode.com/u/rTP0FaRcOa/) [![Database](https://img.shields.io/badge/Dialect-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Saisrikar20/DBMS) [![Views](https://komarev.com/ghpvc/?username=Saisrikar20-DBMS&label=Views&color=0e75b6&style=for-the-badge)](https://github.com/Saisrikar20/DBMS)
 <!-- BADGES:END -->
 
 ---
@@ -24,10 +24,10 @@ This repository automatically tracks and synchronizes my database practice quest
 <!-- STATS:START -->
 | Difficulty | Solved | Share of Solutions |
 |:---|:---:|:---|
-| 🟢 **Easy** | **45** | `█████░░░░░` 50% |
+| 🟢 **Easy** | **46** | `█████░░░░░` 51% |
 | 🟡 **Medium** | **36** | `████░░░░░░` 40% |
 | 🔴 **Hard** | **8** | `█░░░░░░░░░` 8% |
-| 🎯 **Total** | **89** | `██████████` 100% |
+| 🎯 **Total** | **90** | `██████████` 100% |
 <!-- STATS:END -->
 
 ---
@@ -40,7 +40,7 @@ The table below is **automatically generated and updated** whenever new solution
 > 💡 **Tip:** Solutions are grouped into collapsible drawers below. Click any section to expand or collapse. For the full master list, see [`SOLUTIONS.md`](./SOLUTIONS.md).
 
 <details open>
-<summary><b>🟢 Easy Problems (45)</b> — <i>Click to expand/collapse</i></summary>
+<summary><b>🟢 Easy Problems (46)</b> — <i>Click to expand/collapse</i></summary>
 
 | # | Problem Title | Solution | SQL Concepts / Topics |
 |:---:|:---|:---:|:---|
@@ -68,6 +68,7 @@ The table below is **automatically generated and updated** whenever new solution
 | 1390 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [💻 SQL](./1390-average-selling-price/average-selling-price.sql) | `LEFT JOIN`, `GROUP BY`, `NULL Handling` |
 | 1415 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [💻 SQL](./1415-students-and-examinations/students-and-examinations.sql) | `LEFT JOIN`, `GROUP BY`, `ORDER BY` |
 | 1509 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [💻 SQL](./1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | `LEFT JOIN` |
+| 1541 | [Top Travellers](https://leetcode.com/problems/top-travellers) | [💻 SQL](./1541-top-travellers/top-travellers.sql) | `LEFT JOIN`, `GROUP BY`, `ORDER BY`, `NULL Handling` |
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [💻 SQL](./1625-group-sold-products-by-the-date/group-sold-products-by-the-date.sql) | `GROUP BY`, `ORDER BY`, `DISTINCT` |
 | 1664 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) | [💻 SQL](./1664-find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql) | `REGEXP` |
 | 1670 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [💻 SQL](./1670-patients-with-a-condition/patients-with-a-condition.sql) | `Pattern Matching (LIKE)` |
