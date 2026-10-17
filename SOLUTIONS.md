@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **58** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **59** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 30 | **Medium:** 20 | **Hard:** 8
+- **Easy:** 31 | **Medium:** 20 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -45,6 +45,7 @@ This catalog lists all **58** LeetCode SQL practice solutions synced from LeetCo
 | 1801 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | [💻 SQL](./1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 1827 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [💻 SQL](./1827-invalid-tweets/invalid-tweets.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Basic Filtering (WHERE)` |
 | 1837 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | [💻 SQL](./1837-daily-leads-and-partners/daily-leads-and-partners.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY`, `DISTINCT` |
+| 1877 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | [💻 SQL](./1877-find-followers-count/find-followers-count.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY` |
 | 1908 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | [💻 SQL](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Basic Filtering (WHERE)` |
 | 2041 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [💻 SQL](./2041-the-latest-login-in-2020/the-latest-login-in-2020.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 2495 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [💻 SQL](./2495-number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `DISTINCT` |
