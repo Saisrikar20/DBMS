@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **50** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **51** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 25 | **Medium:** 18 | **Hard:** 7
+- **Easy:** 25 | **Medium:** 18 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -43,6 +43,7 @@ This catalog lists all **50** LeetCode SQL practice solutions synced from LeetCo
 | 2041 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | [💻 SQL](./2041-the-latest-login-in-2020/the-latest-login-in-2020.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 2495 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | [💻 SQL](./2495-number-of-unique-subjects-taught-by-each-teacher/number-of-unique-subjects-taught-by-each-teacher.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `DISTINCT` |
 | 3782 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails) | [💻 SQL](./3782-find-valid-emails/find-valid-emails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY`, `REGEXP` |
+| 3792 | [Find Invalid IP Addresses](https://leetcode.com/problems/find-invalid-ip-addresses) | [💻 SQL](./3792-find-invalid-ip-addresses/find-invalid-ip-addresses.sql) | <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard"> | `GROUP BY`, `ORDER BY`, `REGEXP` |
 | 3816 | [DNA Pattern Recognition](https://leetcode.com/problems/dna-pattern-recognition) | [💻 SQL](./3816-dna-pattern-recognition/dna-pattern-recognition.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `REGEXP`, `CASE WHEN` |
 | 3848 | [Analyze Subscription Conversion](https://leetcode.com/problems/analyze-subscription-conversion) | [💻 SQL](./3848-analyze-subscription-conversion/analyze-subscription-conversion.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `CASE WHEN` |
 | 3865 | [Find Product Recommendation Pairs](https://leetcode.com/problems/find-product-recommendation-pairs) | [💻 SQL](./3865-find-product-recommendation-pairs/find-product-recommendation-pairs.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `ORDER BY`, `DISTINCT` |
