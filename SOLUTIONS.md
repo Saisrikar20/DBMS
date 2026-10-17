@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **80** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **81** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 38 | **Medium:** 34 | **Hard:** 8
+- **Easy:** 39 | **Medium:** 34 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -38,6 +38,7 @@ This catalog lists all **80** LeetCode SQL practice solutions synced from LeetCo
 | 1135 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | [💻 SQL](./1135-customers-who-bought-all-products/customers-who-bought-all-products.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `HAVING`, `DISTINCT` |
 | 1153 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [💻 SQL](./1153-product-sales-analysis-i/product-sales-analysis-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `Basic Filtering (WHERE)` |
 | 1155 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) | [💻 SQL](./1155-product-sales-analysis-iii/product-sales-analysis-iii.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY` |
+| 1161 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [💻 SQL](./1161-project-employees-i/project-employees-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 1179 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [💻 SQL](./1179-game-play-analysis-i/game-play-analysis-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY` |
 | 1182 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | [💻 SQL](./1182-game-play-analysis-iv/game-play-analysis-iv.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `DISTINCT` |
 | 1245 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | [💻 SQL](./1245-user-activity-for-the-past-30-days-i/user-activity-for-the-past-30-days-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `DISTINCT` |
