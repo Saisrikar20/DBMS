@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **61** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **62** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 31 | **Medium:** 22 | **Hard:** 8
+- **Easy:** 31 | **Medium:** 23 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -36,6 +36,7 @@ This catalog lists all **61** LeetCode SQL practice solutions synced from LeetCo
 | 1327 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [💻 SQL](./1327-last-person-to-fit-in-the-bus/last-person-to-fit-in-the-bus.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `Aggregation` |
 | 1338 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [💻 SQL](./1338-queries-quality-and-percentage/queries-quality-and-percentage.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `CASE WHEN` |
 | 1390 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [💻 SQL](./1390-average-selling-price/average-selling-price.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `LEFT JOIN`, `GROUP BY`, `NULL Handling` |
+| 1452 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) | [💻 SQL](./1452-restaurant-growth/restaurant-growth.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `ORDER BY`, `Window Functions` |
 | 1509 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [💻 SQL](./1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `RIGHT JOIN` |
 | 1625 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [💻 SQL](./1625-group-sold-products-by-the-date/group-sold-products-by-the-date.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `ORDER BY`, `DISTINCT` |
 | 1664 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) | [💻 SQL](./1664-find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `REGEXP` |
