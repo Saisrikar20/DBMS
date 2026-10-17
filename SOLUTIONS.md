@@ -1,8 +1,8 @@
 # 📑 Complete SQL Solutions Catalog
 
-This catalog lists all **64** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
+This catalog lists all **65** LeetCode SQL practice solutions synced from LeetCode profile [**@rTP0FaRcOa**](https://leetcode.com/u/rTP0FaRcOa/).
 
-- **Easy:** 31 | **Medium:** 25 | **Hard:** 8
+- **Easy:** 31 | **Medium:** 26 | **Hard:** 8
 
 [⬅️ Return to README](./README.md)
 
@@ -35,6 +35,7 @@ This catalog lists all **64** LeetCode SQL practice solutions synced from LeetCo
 | 1258 | [Article Views I](https://leetcode.com/problems/article-views-i) | [💻 SQL](./1258-article-views-i/article-views-i.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `ORDER BY`, `DISTINCT` |
 | 1278 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) | [💻 SQL](./1278-product-price-at-a-given-date/product-price-at-a-given-date.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `LEFT JOIN`, `ORDER BY`, `DISTINCT`, `NULL Handling`, `Window Functions` |
 | 1292 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | [💻 SQL](./1292-immediate-food-delivery-ii/immediate-food-delivery-ii.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY` |
+| 1317 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [💻 SQL](./1317-monthly-transactions-i/monthly-transactions-i.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `GROUP BY`, `CASE WHEN` |
 | 1327 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | [💻 SQL](./1327-last-person-to-fit-in-the-bus/last-person-to-fit-in-the-bus.sql) | <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium"> | `ORDER BY`, `Aggregation` |
 | 1338 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [💻 SQL](./1338-queries-quality-and-percentage/queries-quality-and-percentage.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `GROUP BY`, `CASE WHEN` |
 | 1390 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [💻 SQL](./1390-average-selling-price/average-selling-price.sql) | <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy"> | `LEFT JOIN`, `GROUP BY`, `NULL Handling` |
